@@ -7,7 +7,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 ### About me
-I'm a {backend, frontend and mobile} developer.
+I'm a Fullstack developer.
 
 
 <!--
